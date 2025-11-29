@@ -1,6 +1,6 @@
 # Dragon News
 
-![Dragon News Banner](src/assets/bg.png)
+![Dragon News Banner](src/assets/demo-image.png)
 
 A modern, responsive news portal application built with React. This project provides a clean and intuitive interface for browsing news articles across various categories.
 
